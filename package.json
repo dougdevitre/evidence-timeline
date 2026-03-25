@@ -1,0 +1,15 @@
+{
+  "name": "@justice-os/evidence-timeline",
+  "version": "0.1.0",
+  "description": "Turn chaos into clarity — evidence timeline builder for court preparation",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "test": "vitest",
+    "lint": "eslint src/"
+  },
+  "keywords": ["evidence", "timeline", "court", "document-analysis", "justice"],
+  "author": "Justice OS Contributors",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/dougdevitre/evidence-timeline" }
+}
